@@ -1,0 +1,3 @@
+/Users/michel/CLionProjects/DSProject211/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/michel/CLionProjects/DSProject211/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michel/CLionProjects/DSProject211/cmake-build-debug/CMakeFiles/DSProject211.dir
